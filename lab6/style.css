@@ -1,0 +1,33 @@
+body{
+    padding: auto;
+}
+
+.content {
+    border: 1px solid black;
+    height: 50vh;
+    width: 50vw;
+    padding: 10px;
+    font-family: Arial;
+   
+}
+
+h1 {
+    color: #375e97;
+    font-family: Georgia;    
+}
+
+#line{
+    border-color:#375e97;
+      
+}
+
+h2{
+    color: #999999;
+    margin: unset;
+}
+
+a{
+    color: #fb6542;
+}
+
+
