@@ -1,0 +1,40 @@
+.nav-enlace{
+    display: inline-block;
+    background: turquoise;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: rgba(41, 41, 221, 0.776);
+}
+
+nav{
+    background: rgba(8, 244, 181, 0.635);
+    padding: 30;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-button{
+    background: rgba(90, 255, 222, 0.865);
+    color: white;
+    padding: 10px 0;
+    border: 2px solid white;
+    display: none;
+
+}
+
+@media (max-width: 600px) {
+    nav{
+        background: rgb(93, 195, 179);
+        flex-direction: column;
+    }
+.nav-enlace{
+    margin: 10px 0;
+}
+.nav-button{
+    display: inline-block;
+
+} 
+} 
