@@ -1,4 +1,6 @@
-PRESENTACION GENERAL DEL ESTUDIANTE
+# Presentación del Estudiante
+
+# Perfil de Manuel Becker
 
 
 
@@ -17,17 +19,23 @@ MI meta en el curso es aprender lo mas posible y mejorar mi comprension en los l
 A continuacion parte de los temas aprendidos este semestre:
 
 
-                                                      Github
+### Lo Aprendido en el Semestre:
 
-uso de la plataforma github, ejemplo de comandos:
+### Github
 
-git branch   git commit -m  "Agregar"
+``git clone``
+``git add``
+``git commit``
+``git branch``
+``git push``
 
 
 
 
-                                                        HTML
+                                              
+### HTML
 
+```HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -41,9 +49,11 @@ git branch   git commit -m  "Agregar"
     
 </body>
 </html>
+```
+                                                      
+### CSS
 
-                                                        CSS
-
+```CSS
 
 body, html {
   background-color: white;
@@ -56,8 +66,11 @@ body, html {
   padding: 5px 10px 0 0;
 }
 
+```
 
-                                                      Javascript
+### JavaScript
+
+```JS                                                   
 
 function contar() {
   if (document.getElementById('text').value == "" || document.getElementById('text').value == " "){
@@ -75,7 +88,7 @@ function contar() {
   }
 }
 
-
+```J
 
 
 
